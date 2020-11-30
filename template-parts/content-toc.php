@@ -15,7 +15,7 @@ $upload_path =  $uploads['baseurl'];
 </div>
 <div class="row volumeIssue">
 </div>
-<p class="text-right art-credit">“Askew / Longhorn Beetle in Periwinkle,” oil on wood by <a href="https://www.idafloreak.com/" target="_blank">Ida Floreak</a></p>
+<p class="text-right art-credit"><em>Horn of Plenty_Discrete</em>, Travis Head, gouache and watercolor on paper, 15 x 22", 2019 <a href="https://www.travishead.com/" target="_blank">www.travishead.com</a></p>
 </section>
 
 <section class="container TOCsection">
@@ -436,9 +436,9 @@ foreach ($authornames as $author_id=>$author_lastname) { ?>
 
 <div class="row">
 	<div class="col-md-8 offset-md-2 single-space-paragraphs">
-	<p><a href="https://shenandoahliterary.org/692/masthead/">Masthead</a></p>
-<p><a href="https://shenandoahliterary.org/692/editors-note/">Editor&rsquo;s Note</a><br /><span class="author_name">Beth Staples</span></p>
-<p><a href="https://shenandoahliterary.org/692/contributors/">List of Contributors</a></p>
+	<p><a href="https://shenandoahliterary.org/701/masthead/">Masthead</a></p>
+<p><a href="https://shenandoahliterary.org/701/editors-note/">Editor&rsquo;s Note</a><br /><span class="author_name">Beth Staples</span></p>
+<p><a href="https://shenandoahliterary.org/701/contributors/">List of Contributors</a></p>
 
 
 	</div>
