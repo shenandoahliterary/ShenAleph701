@@ -15,7 +15,7 @@ $upload_path =  $uploads['baseurl'];
 </div>
 <div class="row volumeIssue">
 </div>
-<p class="text-right art-credit"><em>Horn of Plenty_Discrete</em>, Travis Head, gouache and watercolor on paper, 15 x 22", 2019 <a href="https://www.travishead.com/" target="_blank">www.travishead.com</a></p>
+<p class="text-right art-credit"><em>Horn of Plenty_Discrete</em>, <a href="https://www.travishead.com/" target="_blank">Travis Head</a>, gouache and watercolor on paper, 15 x 22", 2019</p>
 </section>
 
 <section class="container TOCsection">
