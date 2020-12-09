@@ -11,9 +11,10 @@ $uploads = wp_upload_dir();
 $upload_path =  $uploads['baseurl'];
 /* need to set image in admin dashboard */
 	?>
-<img  class="img-fluid cover-image w-100" src="<?php echo $upload_path ?>/2020/12/Art-Horn-of-Plenty-Travis-Head-cover.jpg">
+<img  class="img-fluid cover-image" src="<?php echo $upload_path ?>/2020/12/Art-Horn-of-Plenty-Travis-Head-800w.jpg">
 </div>
 <p class="text-right art-credit"><em>Horn of Plenty_Discrete</em>, <a href="https://www.travishead.com/" target="_blank">Travis Head</a>, gouache and watercolor on paper, 15 x 22", 2019</p>
+<!--
 <div class="row volumeIssue">
 	<div class="col-4 text-center">
 		<span>Volume 70</span>
@@ -25,6 +26,7 @@ $upload_path =  $uploads['baseurl'];
 		<span>Fall 2020</span>
 	</div>
 </div>
+-->
 </section>
 
 <section class="container TOCsection">
