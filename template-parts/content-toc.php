@@ -13,18 +13,18 @@ $upload_path =  $uploads['baseurl'];
 	?>
 <img  class="img-fluid cover-image w-100" src="<?php echo $upload_path ?>/2020/12/Art-Horn-of-Plenty-Travis-Head-cover.jpg">
 </div>
+<p class="text-right art-credit"><em>Horn of Plenty_Discrete</em>, <a href="https://www.travishead.com/" target="_blank">Travis Head</a>, gouache and watercolor on paper, 15 x 22", 2019</p>
 <div class="row volumeIssue">
-	<div col-4>
+	<div class="col-4">
 		<span>Volume 70</span>
 	</div>
-	<div col-4>
+	<div class="col-4">
 		<span>Number 1/<span>
 	</div>
-	<div col-4>
+	<div class="col-4">
 		<span>Fall 2020</span>
 	</div>
 </div>
-<p class="text-right art-credit"><em>Horn of Plenty_Discrete</em>, <a href="https://www.travishead.com/" target="_blank">Travis Head</a>, gouache and watercolor on paper, 15 x 22", 2019</p>
 </section>
 
 <section class="container TOCsection">
