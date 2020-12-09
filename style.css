@@ -919,6 +919,9 @@ section.workAuthorBio a {
 .topbanner {
 	border-bottom: 2px solid #a37a75;
 }
+.topbanner-noborder {
+	border-bottom: none;
+}
 
 
 .volumeIssue {
