@@ -19,7 +19,7 @@ $upload_path =  $uploads['baseurl'];
 		<span>Volume 70</span>
 	</div>
 	<div class="col-4">
-		<span>Number 1/<span>
+		<span>Number 1<span>
 	</div>
 	<div class="col-4">
 		<span>Fall 2020</span>

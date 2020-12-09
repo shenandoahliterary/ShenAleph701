@@ -926,7 +926,8 @@ section.workAuthorBio a {
 
 .volumeIssue {
 /*	background-color: #a37a75;  */
-	color:  #a37a75;;
+  margin-top: 1.5rem;
+	color:  #df6348;;
 	font-size: 2rem;
 	font-family: "Theinhardt";
 	font-weight: 300;
