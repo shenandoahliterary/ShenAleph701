@@ -39,7 +39,7 @@
 		<div class="row metadata-row d-flex justify-content-between">
 			<div class="col offset-md-1">
 				<div class="volumeIssueBanner">
-				<span class="">Volume 70, Number 1 &middot; Fall 2021</span>
+				<span class="">Volume 70, Number 1 &middot; Fall 2020</span>
 				</div>
 		</div>
 			<div class="col-5">
