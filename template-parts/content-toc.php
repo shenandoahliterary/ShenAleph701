@@ -11,7 +11,7 @@ $uploads = wp_upload_dir();
 $upload_path =  $uploads['baseurl'];
 /* need to set image in admin dashboard */
 	?>
-<img  class="img-fluid cover-image m-auto" src="<?php echo $upload_path ?>/2020/12/Art-Horn-of-Plenty-Travis-Head-800w.jpg">
+<img  class="img-fluid cover-image m-auto" src="<?php echo $upload_path ?>/2020/12/Art-Horn-of-Plenty-Travis-1k.jpg">
 </div>
 <p class="text-right art-credit"><em>Horn of Plenty_Discrete</em>, <a href="https://www.travishead.com/" target="_blank">Travis Head</a>, gouache and watercolor on paper, 15 x 22", 2019</p>
 <!--
