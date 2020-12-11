@@ -119,7 +119,7 @@ foreach ($authornames as $author_id=>$author_lastname) { ?>
 		</div>
 
 
-
+<p>&nbsp;</p>
 
 		<h3>Nonfiction</h3>
 		<div>
@@ -204,7 +204,7 @@ foreach ($authornames as $author_id=>$author_lastname) { ?>
 				}
 			?>
 		</div>
-
+<p>&nbsp;</p>
 		<h3>Translations</h3>
 		<div>
 
@@ -288,7 +288,7 @@ foreach ($authornames as $author_id=>$author_lastname) { ?>
 }
 			?>
 		</div>
-
+<p>&nbsp;</p>
 							<h3>Comics</h3>
 			    			<div>
 			    				<?php
