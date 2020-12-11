@@ -9,7 +9,15 @@
 
 ?>
 <div class="row">
+	<?php
+	 if ( has_tag('columns-12-title-noindent') ) :
+	?>
+<div class="col-md-12">
+<?php else : 	?>
+
 <div class="col-md-12 offset-md-1">
+<?php endif;
+	?>
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 	<header class="entry-header">
 		<?php
